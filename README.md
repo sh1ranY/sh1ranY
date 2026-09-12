@@ -12,10 +12,14 @@ I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpo
 
 ## Selected research
 
-### PhotonWM — world models and photonic computing
-**Student researcher · 2026–present · Ongoing research**
+### PhotonWM — photonic acceleration for world models
+**Student researcher · 2026–present · Abstract submitted to DATE 2027**
 
-Exploring photonic–electronic co-design for efficient world-model inference. My work includes model reproduction and profiling, workload analysis, simulation methodology, and technical writing.
+**PhotonWM: Trace-Driven Co-Design of MRR Acceleration for Autoregressive World Models** explores a hybrid photonic–electronic architecture: fixed-weight linear operators run on microring-resonator arrays, while dynamic and irregular operations remain on an electronic backend.
+
+My contributions include model reproduction and profiling, workload analysis, evaluation methodology, and manuscript revision. The submitted abstract reports simulation results for a 30-frame LPWM BAIR-128 rollout, including **9.13 ms latency**, **0.90 J energy**, and a **94.42% SRAM hit rate** with 58 MB SRAM. These are collaborative, simulated results, not measurements from a fabricated accelerator.
+
+Status: abstract submission completed; this does not indicate acceptance or a completed full-paper submission.
 
 **Focus:** PyTorch · inference profiling · computer architecture · photonic computing
 
