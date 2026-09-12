@@ -32,6 +32,8 @@ Investigated verifiable sensing and lightweight mission auditing for autonomous 
 
 The work includes separate blockchain and flight-simulation prototypes; end-to-end verification of physical sensing remains a research direction.
 
+[Source code and local demo](https://github.com/sh1ranY/cpos-trusted-multi-robot-auditing)
+
 **Focus:** ROS 2 · PX4 · Gazebo · Solidity · Hardhat
 
 ### Low-resource Cantonese–English neural machine translation
