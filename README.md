@@ -1,16 +1,56 @@
-## Hi there 👋
+# Peixuan Yang
 
-<!--
-**sh1ranY/sh1ranY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Electronic Engineering · Efficient AI Systems · Trustworthy Robotics**
 
-Here are some ideas to get you started:
+I study how machine-learning models interact with the systems that run them, from efficient inference and photonic computing to autonomous robots and verifiable sensing. My interests span computer architecture, world models, and reliable experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpool BEng (Hons) in Computer Science and Electronic Engineering expected in 2028.
+
+[Research](#selected-research) · [Publication](#publication) · [Technical toolkit](#technical-toolkit)
+
+---
+
+## Selected research
+
+### PhotonWM — world models and photonic computing
+**Student researcher · 2026–present · Ongoing research**
+
+Exploring photonic–electronic co-design for efficient world-model inference. My work includes model reproduction and profiling, workload analysis, simulation methodology, and technical writing.
+
+**Focus:** PyTorch · inference profiling · computer architecture · photonic computing
+
+### Collaborative Proof-of-Sensing — trustworthy multi-robot systems
+**SURF 2026 · Blockchain Security Group, XJTLU**
+
+Investigated verifiable sensing and lightweight mission auditing for autonomous robots. Built a local Solidity/Hardhat sensing-registry prototype and worked with ROS 2, Gazebo, and PX4 multi-UAV simulation.
+
+The work includes separate blockchain and flight-simulation prototypes; end-to-end verification of physical sensing remains a research direction.
+
+**Focus:** ROS 2 · PX4 · Gazebo · Solidity · Hardhat
+
+### Low-resource Cantonese–English neural machine translation
+**Co-second author and presenter · ICRAI 2025**
+
+Contributed to corpus preparation, NLLB fine-tuning, and pseudo-data experiments for low-resource translation. The published study reports a 1.1-million-pair corpus and best in-domain scores of **29.63 BLEU** and **56.65 chrF**. These are results of the collaborative study.
+
+[Read the published paper](https://doi.org/10.1109/ICRAI68431.2025.11396704)
+
+## Publication
+
+Yichao Wang, Yukun Gao, **Peixuan Yang**, and Bohan Zhao.
+**Optimized Fine-tuning and Pseudo-Data Strategies for Cross-Domain Low-Resource Language Cantonese-English Neural Machine Translation.**
+*2025 11th International Conference on Robotics and Artificial Intelligence (ICRAI).*
+[DOI: 10.1109/ICRAI68431.2025.11396704](https://doi.org/10.1109/ICRAI68431.2025.11396704)
+
+## Technical toolkit
+
+| Area | Tools and experience |
+| :--- | :--- |
+| Machine learning | Python, PyTorch, NLLB fine-tuning, reproducible experiments |
+| AI systems | Model profiling, workload tracing, LLMCompass, SimPhony |
+| Robotics and auditing | ROS 2, PX4 SITL, Gazebo, Solidity, Hardhat, ethers.js |
+| Software | Git, Linux, Java, SQL, REST APIs, LaTeX |
+
+## Beyond research
+
+I also worked on a hackathon HR assistant, combining document parsing, retrieval, and language-model workflows. I enjoy connecting a technical idea to a working prototype and explaining what the evidence does—and does not—show.
