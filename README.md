@@ -6,7 +6,7 @@ I study how machine-learning models interact with the systems that run them, fro
 
 I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpool BEng (Hons) in Computer Science and Electronic Engineering expected in 2028.
 
-[Research](#selected-research) · [Publication](#publication) · [Technical toolkit](#technical-toolkit)
+[Research](#selected-research) · [PhotonWM](https://github.com/sh1ranY/photonwm) · [NMT paper](https://github.com/sh1ranY/cantonese-english-nmt) · [Contact](mailto:Peixuan.Yang24@student.xjtlu.edu.cn)
 
 ---
 
@@ -20,6 +20,8 @@ I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpo
 My contributions include model reproduction and profiling, workload analysis, evaluation methodology, and manuscript revision. The submitted abstract reports simulation results for a 30-frame LPWM BAIR-128 rollout, including **9.13 ms latency**, **0.90 J energy**, and a **94.42% SRAM hit rate** with 58 MB SRAM. These are collaborative, simulated results, not measurements from a fabricated accelerator.
 
 Status: abstract submission completed; this does not indicate acceptance or a completed full-paper submission.
+
+[Project overview and architecture](https://github.com/sh1ranY/photonwm)
 
 **Focus:** PyTorch · inference profiling · computer architecture · photonic computing
 
@@ -37,7 +39,7 @@ The work includes separate blockchain and flight-simulation prototypes; end-to-e
 
 Contributed to corpus preparation, NLLB fine-tuning, and pseudo-data experiments for low-resource translation. The published study reports a 1.1-million-pair corpus and best in-domain scores of **29.63 BLEU** and **56.65 chrF**. These are results of the collaborative study.
 
-[Read the published paper](https://doi.org/10.1109/ICRAI68431.2025.11396704)
+[Publication companion](https://github.com/sh1ranY/cantonese-english-nmt) · [Read the published paper](https://doi.org/10.1109/ICRAI68431.2025.11396704)
 
 ## Publication
 
