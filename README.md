@@ -10,6 +10,11 @@ I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpo
 
 ---
 
+## CV
+
+- [Download academic CV (PDF)](./Peixuan_Yang_Academic_CV.pdf)
+- [Editable CV source (DOCX)](./Peixuan_Yang_Academic_CV.docx)
+
 ## Selected research
 
 ### PhotonWM — photonic acceleration for world models
