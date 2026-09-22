@@ -67,3 +67,15 @@ Yichao Wang, Yukun Gao, **Peixuan Yang**, and Bohan Zhao.
 ## Beyond research
 
 I also worked on a hackathon HR assistant, combining document parsing, retrieval, and language-model workflows. I enjoy connecting a technical idea to a working prototype and explaining what the evidence does—and does not—show.
+
+## Selected software projects
+
+### UK Pocket Ledger
+A mobile-friendly GBP expense tracker with local receipt OCR, offline support, CSV/JSON import/export and tested parsing/backup logic. Built with JavaScript and AI-assisted development; no personal financial records are included.
+
+[Source and local demo instructions](https://github.com/sh1ranY/uk-pocket-ledger)
+
+### STEM Study Vault
+A reusable Codex skill for source-grounded STEM learning in Obsidian, with a synthetic RC-circuit example, local extraction/link-checking helpers and an optional formula syntax checker.
+
+[Skill, example vault and validation](https://github.com/sh1ranY/stem-study-vault)
