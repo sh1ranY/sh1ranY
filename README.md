@@ -76,11 +76,11 @@ A mobile-friendly GBP expense tracker with local receipt OCR, offline support, C
 [Source and local demo instructions](https://github.com/sh1ranY/uk-pocket-ledger)
 
 ### STEM Study Vault
-A source-grounded learning project combining an Obsidian/Codex skill with Study Studio, a local React + FastAPI + SQLite application. Its bilingual demo covers nine original introductory topics across signals and systems, software engineering and databases, with practice, learning records and optional AI integration. Original examples run without private course materials; learning-effectiveness claims have not been established.
+A source-grounded learning project combining an Obsidian/Codex skill with Study Studio, a local React + FastAPI + SQLite application. Its bilingual demo covers nine original introductory topics across signals and systems, software engineering and databases, with practice, learning records and optional AI integration. It also includes bilingual image-processing exploration and concept-level companion-video guidance. Original examples run without private course materials; learning-effectiveness claims have not been established.
 
 [Skill, example vault and validation](https://github.com/sh1ranY/stem-study-vault)
 
 ### Arduino Digital Hourglass
-A dual-MAX7219 hourglass on Arduino UNO R4 WiFi, with button/tilt controls, a Wokwi model and archived physical-test evidence. The buzzer extension has host software tests; the GY-87 extension remains a hardware proposal.
+An Arduino UNO R4 WiFi hourglass with GY-87 orientation sensing, six timer presets, a separate countdown display and synchronized buzzer/flash feedback. v3.9 adds communication recovery that preserves progress. Full-sketch host tests and archived real-board recovery evidence are documented separately; the original intermittent fault and long-duration reliability remain unresolved.
 
 [Code, wiring and validation](https://github.com/sh1ranY/arduino-digital-hourglass)
