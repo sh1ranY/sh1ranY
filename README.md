@@ -6,7 +6,7 @@ I study how machine-learning models interact with the systems that run them, fro
 
 I am following the XJTLU–University of Liverpool 2+2 pathway, with the Liverpool BEng (Hons) in Computer Science and Electronic Engineering expected in 2028.
 
-[Research](#selected-research) · [PhotonWM](https://github.com/sh1ranY/photonwm) · [NMT paper](https://github.com/sh1ranY/cantonese-english-nmt) · [Contact](mailto:Peixuan.Yang24@student.xjtlu.edu.cn)
+[Research](#selected-research) · [Projects](#selected-software-projects) · [PhotonWM](https://github.com/sh1ranY/photonwm) · [NMT paper](https://github.com/sh1ranY/cantonese-english-nmt) · [Contact](mailto:Peixuan.Yang24@student.xjtlu.edu.cn)
 
 ---
 
@@ -40,6 +40,12 @@ The work includes separate blockchain and flight-simulation prototypes; end-to-e
 [Source code and local demo](https://github.com/sh1ranY/cpos-trusted-multi-robot-auditing)
 
 **Focus:** ROS 2 · PX4 · Gazebo · Solidity · Hardhat
+
+### Cross-medium communication simulation
+
+An ns-3 experiment for the SURF project connects underwater acoustic nodes and a UAV to a ground station through a surface gateway. Packet traces show how FIFO buffering can recover delivery during a backhaul outage while increasing tail latency. The repository includes the C++ scenario, commands and CSV traces.
+
+[Simulation, results and model limits](https://github.com/sh1ranY/surf-cross-medium-simulation)
 
 ### Low-resource Cantonese–English neural machine translation
 **Co-second author and presenter · ICRAI 2025**
@@ -80,7 +86,19 @@ A source-grounded learning project combining an Obsidian/Codex skill with Study 
 
 [Skill, example vault and validation](https://github.com/sh1ranY/stem-study-vault)
 
+### Semester Revision Desk
+
+A practice application for software engineering, database development, and signals and systems. The local demo includes 12 original practice questions and three short mock exams. The full course banks and personal study records stay in the private workspace.
+
+[Public source and demo setup](https://github.com/sh1ranY/semester-revision-desk)
+
+### Embedded Spectrum Visualizer
+
+The Arduino UNO R4 WiFi prototype uses a microphone input to display a live waveform and FFT spectrum. A separate ESP32-S3 prototype records and browses WAV files using generated audio samples. The project documents hardware observations and software checks for each board.
+
+[Firmware, wiring and validation](https://github.com/sh1ranY/embedded-spectrum-visualizer)
+
 ### Arduino Digital Hourglass
 An Arduino UNO R4 WiFi hourglass with GY-87 orientation sensing, six timer presets, a separate countdown display and synchronized buzzer/flash feedback. v3.9 adds communication recovery that preserves progress. Full-sketch host tests and archived real-board recovery evidence are documented separately; the original intermittent fault and long-duration reliability remain unresolved.
 
-[Code, wiring and validation](https://github.com/sh1ranY/arduino-digital-hourglass)
+[Code, wiring and validation](https://github.com/sh1ranY/arduino-digital-hourglass) · [Hardware demo video](https://github.com/sh1ranY/arduino-digital-hourglass#hardware-demonstration)
